@@ -11,8 +11,8 @@ main:
 
   - title: "Teaching"  # <--- NO 'url:' line here
     children:
-      - title: "Einführung"
-        url: /teaching/einfuehrung/
+    - title: "Einführung"
+      url: /teaching/einfuehrung/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
