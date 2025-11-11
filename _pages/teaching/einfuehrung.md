@@ -15,6 +15,6 @@ Hier finden Sie Materialien zu meiner *Einführung in die Linguistik*. Das Buch 
 
 * **Linguistische Grundbegriffe:** Das Buch enthält ein alphabetisches, deutsch-französisches Sachregister mit allen eingeführten Fachbegriffen. Die Tabelle [hier]([HIER-LINK-ZUR-TABELLE-EINFÜGEN]).
     * führt die Begriffe in der Reihenfolge auf, in der sie im Buch eingeführt werden
-    * und ist dreisprachig: deutsch-französisch-italienisch.
+    * und ist dreisprachig: deutsch-französisch-italienisch. 
 * **Fundsachen** gegen linguistische Langeweile.
 * **Weiterführende Materialien**, aus früheren Vorlesungen oder aus dem Netz (Artikel, Filme, Webseiten)
