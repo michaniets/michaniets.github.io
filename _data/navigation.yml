@@ -1,9 +1,18 @@
 # main links updated
+# _data/navigation.yml
 main:
+  - title: "About"
+    url: /about/
+    
   - title: "Research"
-    url: /research/
+    url: /research/ # This can be a main landing page for research
+
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching/ # This can be a main landing page for teaching
+    children:
+      - title: "Einführung"
+        url: /teaching/einfuehrung/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
