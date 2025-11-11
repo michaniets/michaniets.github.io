@@ -1,1 +1,23 @@
+# --- Basic Settings ---
+title: "Achim Stein"
+baseurl: ""
+url: "https://michaniets.github.io"
+repository: "michaniets/michaniets.github.io"
 
+# --- Theme Settings ---
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+# --- Author Settings ---
+author:
+  name: "Achim Stein"
+  bio: "Romance Linguistics"
+
+# --- Defaults ---
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
