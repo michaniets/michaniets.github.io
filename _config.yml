@@ -325,3 +325,16 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# -- Navigation Menu --
+# (This overrides _data/navigation.yml)
+
+main_nav:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    children:
+      - title: "Einführung"
+        url: /teaching/einfuehrung/
