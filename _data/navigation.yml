@@ -8,7 +8,7 @@ main:
     url: /research/ # This can be a main landing page for research
 
   - title: "Teaching"
-    url: /teaching/ # This can be a main landing page for teaching
+    url: /teaching/ # keep this if you have a main "Teaching" overview page (like _pages/teaching.md)
     children:
       - title: "Einführung"
         url: /teaching/einfuehrung/
