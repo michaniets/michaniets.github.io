@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching-Lehre"
+  - title: "Teaching"
     children:
       - title: "Einführung"
         url: /teaching/einfuehrung/
