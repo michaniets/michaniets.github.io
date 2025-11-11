@@ -8,6 +8,7 @@ main:
     url: /research/ # This can be a main landing page for research
 
   - title: "Teaching"
+    # no URL here
     children:
       - title: "Einführung"
         url: /teaching/einfuehrung/
