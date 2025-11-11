@@ -7,5 +7,5 @@ main:
 
   - title: "Teaching"
     children:
-      - title: "Einführung"
+      - title: "Einfuehrung"
         url: /teaching/einfuehrung/
