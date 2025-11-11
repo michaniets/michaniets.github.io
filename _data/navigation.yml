@@ -1,14 +1,15 @@
 # main links updated
 # _data/navigation.yml
+# _data/navigation.yml
+
 main:
   - title: "About"
     url: /about/
-    
-  - title: "Research"
-    url: /research/ # This can be a main landing page for research
 
-  - title: "Teaching"
-    # no URL here
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"  # <--- NO 'url:' line here
     children:
       - title: "Einführung"
         url: /teaching/einfuehrung/
