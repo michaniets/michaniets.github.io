@@ -4,4 +4,6 @@ title: "Achim Stein"
 author_profile: true
 ---
 
-Welcome — this is a Minimal Mistakes–based site.
+Welcome — this site is under construction.
+
+Visit [my current site](https://sites.google.com/site/achimstein)
