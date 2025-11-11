@@ -7,7 +7,7 @@ layout: single
 # This part creates the sidebar on the right
 sidebar:
   right:
-    - image: einfuehrung-cover.png # /assets/images/buch-einfuehrung.jpg
+    - image: /assets/images/einfuehrung-cover.png
       image_alt: "Buchcover Einführung in die französische Sprachwissenschaft"
 ---
 
