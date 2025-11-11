@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Or 'master' if your default branch is named 'master'
+      - master  # Or 'master' if your default branch is named 'master'
   workflow_dispatch:
 
 permissions:
