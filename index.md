@@ -4,6 +4,4 @@ title: "Achim Stein"
 author_profile: true
 ---
 
-Welcome — this site is under construction.
-
-Visit [my current site](https://sites.google.com/site/achimstein)
+Welcome — while this site is under construction, visit [my current site](https://sites.google.com/site/achimstein)
